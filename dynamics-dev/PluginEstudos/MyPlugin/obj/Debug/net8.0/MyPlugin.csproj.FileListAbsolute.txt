@@ -1,0 +1,12 @@
+C:\Workspaces\Dynamics\PluginEstudos\MyPlugin\bin\Debug\net8.0\MyPlugin.deps.json
+C:\Workspaces\Dynamics\PluginEstudos\MyPlugin\bin\Debug\net8.0\MyPlugin.dll
+C:\Workspaces\Dynamics\PluginEstudos\MyPlugin\bin\Debug\net8.0\MyPlugin.pdb
+C:\Workspaces\Dynamics\PluginEstudos\MyPlugin\obj\Debug\net8.0\MyPlugin.csproj.AssemblyReference.cache
+C:\Workspaces\Dynamics\PluginEstudos\MyPlugin\obj\Debug\net8.0\MyPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspaces\Dynamics\PluginEstudos\MyPlugin\obj\Debug\net8.0\MyPlugin.AssemblyInfoInputs.cache
+C:\Workspaces\Dynamics\PluginEstudos\MyPlugin\obj\Debug\net8.0\MyPlugin.AssemblyInfo.cs
+C:\Workspaces\Dynamics\PluginEstudos\MyPlugin\obj\Debug\net8.0\MyPlugin.csproj.CoreCompileInputs.cache
+C:\Workspaces\Dynamics\PluginEstudos\MyPlugin\obj\Debug\net8.0\MyPlugin.dll
+C:\Workspaces\Dynamics\PluginEstudos\MyPlugin\obj\Debug\net8.0\refint\MyPlugin.dll
+C:\Workspaces\Dynamics\PluginEstudos\MyPlugin\obj\Debug\net8.0\MyPlugin.pdb
+C:\Workspaces\Dynamics\PluginEstudos\MyPlugin\obj\Debug\net8.0\ref\MyPlugin.dll

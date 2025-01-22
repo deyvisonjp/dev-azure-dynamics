@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspaces\\Dynamics\\PluginEstudos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0059DEA6-DCC1-4FB0-8A4D-C4D63162A44E}|MyPlugin\\MyPlugin.csproj|c:\\workspaces\\dynamics\\pluginestudos\\myplugin\\checkcustomerbalanceplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0059DEA6-DCC1-4FB0-8A4D-C4D63162A44E}|MyPlugin\\MyPlugin.csproj|solutionrelative:myplugin\\checkcustomerbalanceplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CC83B2-6B56-46DA-994B-D1348BD086EB}|TestePlugin\\TestePlugin.csproj|c:\\workspaces\\dynamics\\pluginestudos\\testeplugin\\checkcustomerbalanceplugintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CC83B2-6B56-46DA-994B-D1348BD086EB}|TestePlugin\\TestePlugin.csproj|solutionrelative:testeplugin\\checkcustomerbalanceplugintests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CC83B2-6B56-46DA-994B-D1348BD086EB}|TestePlugin\\TestePlugin.csproj|c:\\workspaces\\dynamics\\pluginestudos\\testeplugin\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CC83B2-6B56-46DA-994B-D1348BD086EB}|TestePlugin\\TestePlugin.csproj|solutionrelative:testeplugin\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0059DEA6-DCC1-4FB0-8A4D-C4D63162A44E}|MyPlugin\\MyPlugin.csproj|c:\\workspaces\\dynamics\\pluginestudos\\myplugin\\simpleplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0059DEA6-DCC1-4FB0-8A4D-C4D63162A44E}|MyPlugin\\MyPlugin.csproj|solutionrelative:myplugin\\simpleplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CC83B2-6B56-46DA-994B-D1348BD086EB}|TestePlugin\\TestePlugin.csproj|c:\\workspaces\\dynamics\\pluginestudos\\testeplugin\\testeplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{54CC83B2-6B56-46DA-994B-D1348BD086EB}|TestePlugin\\TestePlugin.csproj|solutionrelative:testeplugin\\testeplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckCustomerBalancePluginTests.cs",
+              "DocumentMoniker": "C:\\Workspaces\\Dynamics\\PluginEstudos\\TestePlugin\\CheckCustomerBalancePluginTests.cs",
+              "RelativeDocumentMoniker": "TestePlugin\\CheckCustomerBalancePluginTests.cs",
+              "ToolTip": "C:\\Workspaces\\Dynamics\\PluginEstudos\\TestePlugin\\CheckCustomerBalancePluginTests.cs",
+              "RelativeToolTip": "TestePlugin\\CheckCustomerBalancePluginTests.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T20:32:53.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CheckCustomerBalancePlugin.cs",
+              "DocumentMoniker": "C:\\Workspaces\\Dynamics\\PluginEstudos\\MyPlugin\\CheckCustomerBalancePlugin.cs",
+              "RelativeDocumentMoniker": "MyPlugin\\CheckCustomerBalancePlugin.cs",
+              "ToolTip": "C:\\Workspaces\\Dynamics\\PluginEstudos\\MyPlugin\\CheckCustomerBalancePlugin.cs",
+              "RelativeToolTip": "MyPlugin\\CheckCustomerBalancePlugin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:54:27.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestePlugin.csproj",
+              "DocumentMoniker": "C:\\Workspaces\\Dynamics\\PluginEstudos\\TestePlugin\\TestePlugin.csproj",
+              "RelativeDocumentMoniker": "TestePlugin\\TestePlugin.csproj",
+              "ToolTip": "C:\\Workspaces\\Dynamics\\PluginEstudos\\TestePlugin\\TestePlugin.csproj",
+              "RelativeToolTip": "TestePlugin\\TestePlugin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-15T18:38:31.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Workspaces\\Dynamics\\PluginEstudos\\TestePlugin\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestePlugin\\UnitTest1.cs",
+              "ToolTip": "C:\\Workspaces\\Dynamics\\PluginEstudos\\TestePlugin\\UnitTest1.cs",
+              "RelativeToolTip": "TestePlugin\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T18:23:36.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SimplePlugin.cs",
+              "DocumentMoniker": "C:\\Workspaces\\Dynamics\\PluginEstudos\\MyPlugin\\SimplePlugin.cs",
+              "RelativeDocumentMoniker": "MyPlugin\\SimplePlugin.cs",
+              "ToolTip": "C:\\Workspaces\\Dynamics\\PluginEstudos\\MyPlugin\\SimplePlugin.cs",
+              "RelativeToolTip": "MyPlugin\\SimplePlugin.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:46:57.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspaces\\Functions\\AzFunctionsExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB165C66-CDA8-4D3E-B9CA-529914A4971E}|AzFunctionsExample\\AzFunctionsExample.csproj|c:\\workspaces\\functions\\azfunctionsexample\\azfunctionsexample\\functionhttptestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB165C66-CDA8-4D3E-B9CA-529914A4971E}|AzFunctionsExample\\AzFunctionsExample.csproj|solutionrelative:azfunctionsexample\\functionhttptestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB165C66-CDA8-4D3E-B9CA-529914A4971E}|AzFunctionsExample\\AzFunctionsExample.csproj|c:\\workspaces\\functions\\azfunctionsexample\\azfunctionsexample\\interfaces\\iestoqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB165C66-CDA8-4D3E-B9CA-529914A4971E}|AzFunctionsExample\\AzFunctionsExample.csproj|solutionrelative:azfunctionsexample\\interfaces\\iestoqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB165C66-CDA8-4D3E-B9CA-529914A4971E}|AzFunctionsExample\\AzFunctionsExample.csproj|c:\\workspaces\\functions\\azfunctionsexample\\azfunctionsexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB165C66-CDA8-4D3E-B9CA-529914A4971E}|AzFunctionsExample\\AzFunctionsExample.csproj|solutionrelative:azfunctionsexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Workspaces\\Functions\\AzFunctionsExample\\AzFunctionsExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AzFunctionsExample\\Models\\Product.cs",
+              "ToolTip": "C:\\Workspaces\\Functions\\AzFunctionsExample\\AzFunctionsExample\\Models\\Product.cs",
+              "RelativeToolTip": "AzFunctionsExample\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:38:04.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEstoqueService.cs",
+              "DocumentMoniker": "C:\\Workspaces\\Functions\\AzFunctionsExample\\AzFunctionsExample\\Interfaces\\IEstoqueService.cs",
+              "RelativeDocumentMoniker": "AzFunctionsExample\\Interfaces\\IEstoqueService.cs",
+              "ToolTip": "C:\\Workspaces\\Functions\\AzFunctionsExample\\AzFunctionsExample\\Interfaces\\IEstoqueService.cs",
+              "RelativeToolTip": "AzFunctionsExample\\Interfaces\\IEstoqueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:31:32.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FunctionHttpTestes.cs",
+              "DocumentMoniker": "C:\\Workspaces\\Functions\\AzFunctionsExample\\AzFunctionsExample\\FunctionHttpTestes.cs",
+              "RelativeDocumentMoniker": "AzFunctionsExample\\FunctionHttpTestes.cs",
+              "ToolTip": "C:\\Workspaces\\Functions\\AzFunctionsExample\\AzFunctionsExample\\FunctionHttpTestes.cs",
+              "RelativeToolTip": "AzFunctionsExample\\FunctionHttpTestes.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T13:26:16.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
